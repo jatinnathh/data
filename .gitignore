@@ -1,0 +1,5 @@
+models/
+*.pkl
+*.joblib
+catboost_info/
+.ipynb_checkpoints/
